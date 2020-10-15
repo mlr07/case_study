@@ -1,0 +1,4 @@
+bokeh
+jupyterlab
+lasio
+pandas
